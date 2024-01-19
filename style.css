@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 23px;
+    font-weight: 400;
+    padding: 30px;
+    margin: 30px;
+    background-color: #faebd7;
+}
+h1,h2{
+    font-size: 26px;
+    font-weight: 600;
+    text-align: center;
+}
+ul{
+ 
+}
+li{
+    text-align: center;
+    color: black;
+}
